@@ -62,4 +62,8 @@ typings/
 
 config.json
 
-.vscode
+.vscode/
+
+.DS_Store
+
+dist/
